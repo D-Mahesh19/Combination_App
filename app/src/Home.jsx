@@ -127,7 +127,7 @@ export default function Home() {
           </div>
         </div>
       </div>
-      {/* <div class="card-group  mt-3">
+      <div class="card-group  mt-3">
         <div class="card ms-1 me-1">
           <img src={tr1} className="card-img-top " alt="..." />
           <div class="card-body">
@@ -160,7 +160,7 @@ export default function Home() {
             <p class="card-text"><small class="text-body-secondary">Last updated 3 days ago</small></p>
           </div>
         </div>
-      </div> */}
+      </div>
     </div>
   )
 }
